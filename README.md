@@ -49,4 +49,4 @@ Which user? type_user_here
 This will run the script and provide a detailed report for the user "john_doe".
 
 ## Screenshot
-![Screenshot of the running the command whoareyou and the report.](https://github.com/tim-andes/whoareyou.sh/blob/main/whoareyou.png)
+![Screenshot of the running the command whoareyou and the report.](https://github.com/tim-andes/whoareyou.sh/blob/main/whoareyou-e.png)
