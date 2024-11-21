@@ -7,7 +7,7 @@ This script, along with an alias, provides a convenient way to generate detailed
 ### 1. Create the Script File:
 Create a new file named user_report.sh and paste the code within the GitHub repo file `whoareyou.sh`...
 ```
-~:$ vim whoareyou.sh
+:~$ vim whoareyou.sh
 ```
 ...Save and exit VIM.
 
@@ -42,7 +42,7 @@ Now, you can type whoareyou username in your terminal to execute the script and 
 Example:
 
 ```
-~:$ whoareyou
+:~$ whoareyou
 Which user? type_user_here
 ```
 
