@@ -1,7 +1,6 @@
 # whoareyou.sh
-BASH, Linux, Terminal. Generate a report for a user, containing name, groups, default shell, and root/sudo privileges.
 
-Overview
+## Overview
 This script, along with an alias, provides a convenient way to generate detailed user reports on a Linux system.
 
 ## Creating the Script
