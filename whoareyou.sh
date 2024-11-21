@@ -7,9 +7,6 @@ read user
 
 # Main
 # Check if user exists
-echo "
-
-"
 if
 	grep -Eiq "^$user" /etc/passwd; then
 	# User found.
@@ -18,8 +15,11 @@ if
 	"
 else 
 	echo "$user does not exist. Please verify name and spelling."
+ 	exit
 fi
-
+echo "
+"
+echo "====================="
 echo "User report for $user"
 echo "=====================
 "
