@@ -1,7 +1,7 @@
 # whoareyou.sh
 
 ## Overview
-This script, along with an alias, provides a convenient way to generate detailed user reports on a Linux system.
+This script using an added alias, provides a convenient way to generate detailed user reports on a Linux system.
 
 ## Creating the Script
 ### 1. Create the Script File:
